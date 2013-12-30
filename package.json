@@ -1,0 +1,15 @@
+{
+  "name": "bswarm-jquery-test",
+  "version": "0.1.0",
+  "description": "--",
+  "main": "server.js",
+  "dependencies": {
+    "run-qunit": "latest",
+    "gateway": "https://github.com/FrozenRidge/gateway/archive/master.tar.gz"
+  },
+  "repository": "",
+  "author": {
+    "name": "Mike Hostetler",
+    "email": "mike.hostetler@gmail.com"
+  }
+}
